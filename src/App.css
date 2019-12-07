@@ -1,0 +1,12 @@
+.selected-byte-code {
+    font-family: "Courier New", Courier, monospace;
+    margin: "4px";
+    background-color: "#1890ff";
+    color: "white";
+    font-weight: "bold"
+}
+
+.unselected-byte-code {
+    font-family: "Courier New", Courier, monospace;
+    margin: "4px";
+}
